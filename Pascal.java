@@ -2,6 +2,11 @@ import javax.swing.*;
 import java.math.*;
 public class Pascal
 {
+	/*
+		TODO:
+		Add trianglular output (probably will break down after like 15 rows or so)
+	*/
+	
 	public static void main(String[] args)
 	{
 		//Up to how many rows to calculate (not for the feint of heart)
